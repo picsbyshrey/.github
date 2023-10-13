@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Creating, forking, breaking, and updating cool repositories. It's all about learning here.
+
 <!--
 
 **Here are some ideas to get you started:**
